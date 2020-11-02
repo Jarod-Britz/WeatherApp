@@ -1,0 +1,28 @@
+.background{
+    background: url(../../assets/background.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+h2{
+    margin: 0;
+    text-align: center;
+    font-size: 70px;
+    padding-top: 10%;
+    color: white;
+    font:68px/83px Montserrat;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    margin: 0;
+    font: 145px/176px Montserrat;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin: 0;
+    font: 50px/75px Montserrat;
+}
